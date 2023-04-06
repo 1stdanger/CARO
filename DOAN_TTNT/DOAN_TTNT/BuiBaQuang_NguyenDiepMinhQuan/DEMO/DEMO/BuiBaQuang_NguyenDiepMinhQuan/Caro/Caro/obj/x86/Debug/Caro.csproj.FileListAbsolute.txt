@@ -1,0 +1,82 @@
+D:\Projects\Caro\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+D:\Projects\Caro\Caro\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects\Caro\Caro\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projects\Caro\Caro\bin\Debug\Caro.exe
+D:\Projects\Caro\Caro\bin\Debug\Caro.pdb
+D:\Projects\Caro\Caro\obj\x86\Debug\Caro.exe
+D:\Projects\Caro\Caro\obj\x86\Debug\Caro.pdb
+D:\Projects\Caro\Caro\obj\x86\Debug\Caro.CaroBoardUI.resources
+D:\Projects\Caro\Caro\obj\x86\Debug\Caro.Form1.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.exe
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.pdb
+D:\Projects\caro-game-svn\Caro\bin\Debug\Caro.exe
+D:\Projects\caro-game-svn\Caro\bin\Debug\Caro.pdb
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.Main.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\Caro.exe
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\Caro.pdb
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\bin\Debug\Caro.exe
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI.resources
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\Caro.Main.resources
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\HaiAnh\Desktop\New folder\caro-game-svn\Caro\bin\Debug\Caro.pdb
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI2.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.Test.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.exe
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.pdb
+D:\caro-game-svn\Caro\bin\Debug\Caro.exe
+D:\caro-game-svn\Caro\bin\Debug\Caro.pdb
+D:\caro-game-svn\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI2.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.Main.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.Test.resources
+D:\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\caro-game-svn\Caro\obj\x86\Debug\ResGen.read.1.tlog
+D:\caro-game-svn\Caro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\caro-game-svn\Caro\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.Fake.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.exe
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.pdb
+C:\Users\HaiAnh\Desktop\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\HaiAnh\Desktop\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.CaroBoardUI2.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Fake.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Main.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Test.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\ResGen.write.1.tlog
+D:\caro-game-svn\Caro\obj\x86\Debug\Caro.Fake.resources
+D:\Projects\caro-game-svn\Caro\obj\x86\Debug\Caro.Options.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Options.resources
+C:\Users\HaiAnh\Desktop\Caro\Caro\obj\x86\Debug\Caro.Step.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.exe
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.pdb
+E:\caro-game-svn\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI2.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.Fake.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.Main.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.Options.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.Test.resources
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.csproj.GenerateResource.Cache
+E:\caro-game-svn\Caro\bin\Debug\Caro.exe
+E:\caro-game-svn\Caro\bin\Debug\Caro.pdb
+E:\caro-game-svn\Caro\obj\x86\Debug\Caro.CaroBoardUI.resources

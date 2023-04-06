@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/59/trunk/Caro/bin/Debug
+END
+CaroLibrary.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/Caro/bin/Debug/CaroLibrary.dll
+END
+Caro.exe
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/59/trunk/Caro/bin/Debug/Caro.exe
+END
+protect.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/Caro/bin/Debug/protect.bat
+END
+Caro.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/59/trunk/Caro/bin/Debug/Caro.pdb
+END
+Caro.vshost.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/59/trunk/Caro/bin/Debug/Caro.vshost.exe
+END
+Options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/Caro/bin/Debug/Options.xml
+END
+CaroLibrary.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/56/trunk/Caro/bin/Debug/CaroLibrary.pdb
+END
+Caro.vshost.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/Caro/bin/Debug/Caro.vshost.exe.manifest
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/48/trunk/Caro/bin/Debug/test.xml
+END

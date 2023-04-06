@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Caro>
+    <Step xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+    <PlayerScore>7</PlayerScore>
+    <ComputerScore>5</ComputerScore>
+    <PlayedTime>17</PlayedTime>
+    <PlayerSymbol>o</PlayerSymbol>
+  </Caro>
+</DocumentElement>
